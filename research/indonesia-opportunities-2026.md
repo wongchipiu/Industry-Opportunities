@@ -10,6 +10,8 @@
 
 中重资产方向可继续观察冷链餐饮设备、光伏储能。不建议初期进入廉价跨境铺货、普通服装或通用 3C。
 
+新增的消费分层与中国产业链研究表明，印尼不能被视为一个统一的“2.8 亿人口市场”：大众消费仍高度价格敏感，真正可率先商业化的是大雅加达、西爪哇、万丹、泗水和巴厘岛等城市市场。中国企业最合适的角色也不是单纯出口成品，而是提供核心零部件、设备、工艺和供应链效率，再叠加印尼本地组装、认证、品牌、渠道与售后。详见 [《印尼消费阶段与中国产业链协同》](indonesia-consumer-china-supply-chain-2026.md)。
+
 ## 行业与渠道动量
 
 2025 年印尼 GDP 增长 5.11%。增速靠前的行业包括其他服务业 9.93%、企业服务 9.10%、运输仓储 8.78%、信息通信 8.35%、住宿餐饮 7.41%。2026 年一季度，住宿餐饮增长 13.14%，运输仓储增长 8.04%。[BPS 2025 GDP](https://www.bps.go.id/en/pressrelease/2026/02/05/2546/indonesia-s-economic-growth-in-2025-was-5-11-percent.html) · [印尼财政部行业拆分](https://www.kemenkeu.go.id/informasi-publik/publikasi/siaran-pers/Siaran-Pers-Ekonomi-Indonesia-2025-Kuat) · [BPS 2026 Q1](https://www.bps.go.id/en/news/2026/05/06/910/ekonomi-indonesia-resilien-dan-tumbuh-solid--pada-triwulan-1-2026.html)
