@@ -2,3 +2,6 @@
 Thumbs.db
 ~$*
 *.tmp
+*.log
+node_modules
+node_modules 2
