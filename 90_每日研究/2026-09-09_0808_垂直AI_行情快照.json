@@ -1,0 +1,10 @@
+{
+  "retrieved_date_beijing": "2026-09-09",
+  "source": "web finance tool",
+  "note": "Selected fields transcribed from tool response; last trades include after-hours, not uniform regular-session closes.",
+  "quotes": [
+    {"ticker":"TRI","currency":"USD","price":98.81,"last_trade_utc":"2026-09-08T21:35:00Z"},
+    {"ticker":"FDS","currency":"USD","price":289.0,"last_trade_utc":"2026-09-08T23:15:00Z"},
+    {"ticker":"RELX","currency":"USD","price":34.7,"last_trade_utc":"2026-09-08T23:17:39Z"}
+  ]
+}
