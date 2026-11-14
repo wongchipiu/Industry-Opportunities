@@ -1,0 +1,18 @@
+{
+  "retrieved_date_beijing": "2026-11-15",
+  "market_close_reference": "2026-11-13 / mid-November 2026 latest trading close",
+  "source": "web_search_market_aggregators_and_exchange_disclosures",
+  "note": "Closing quotes, market capitalizations, and valuation multiple ranges collected via web search on 2026-11-15 for Week 5 Topic 1 (Lithography, Metrology/Inspection, and Wafer Cleaning Equipment). Multi-source ranges are preserved where aggregator consensus varies.",
+  "quotes": [
+    {"ticker":"ASML","exchange":"NASDAQ / Euronext","currency":"USD / EUR","price_usd":1495.16,"price_eur":1338.80,"market_cap_b":"USD 564-592 (EUR 516)","forward_pe":"23.0x-23.4x"},
+    {"ticker":"KLAC","exchange":"NASDAQ","currency":"USD","price":152.32,"market_cap_b":"199-205","forward_pe":"21.6x-26.5x","note":"Post June 2026 10-for-1 stock split"},
+    {"ticker":"ONTO","exchange":"NYSE","currency":"USD","price":209.67,"market_cap_b":"9.5-9.9","forward_pe":"14.7x-16.8x"},
+    {"ticker":"CAMT","exchange":"NASDAQ","currency":"USD","price":102.92,"market_cap_b":"4.7-5.0","forward_pe":"19.8x-21.3x"},
+    {"ticker":"ACMR","exchange":"NASDAQ","currency":"USD","price":49.88,"market_cap_b":"3.4-3.5","forward_pe":"16.9x-19.2x"},
+    {"ticker":"6920.T","exchange":"TSE","currency":"JPY","price_range":"36000-37200","market_cap_jpy_t":"3.34-3.41","trailing_pe":"51x-53x","forward_pe":"~41x"},
+    {"ticker":"7735.T","exchange":"TSE","currency":"JPY","price_range":"~9200","market_cap_jpy_t":"1.55-1.75","trailing_pe":"15x-17x","forward_pe":"11x-15x"},
+    {"ticker":"002371.SZ","exchange":"SZSE","currency":"CNY","price":538.68,"market_cap_cny_b":"390-394","trailing_pe":"59x-75x"},
+    {"ticker":"688082.SS","exchange":"SSE","currency":"CNY","price_range":"213-214","market_cap_cny_b":"103.4-103.8","trailing_pe":"~86x"},
+    {"ticker":"688361.SS","exchange":"SSE","currency":"CNY","price_range":"256-266","market_cap_cny_b":"93.7-98.1","trailing_pe":"Negative / N/A (9M net loss, Q3 turned profitable)"}
+  ]
+}
